@@ -1,26 +1,14 @@
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+There!+I'm+Ulwan+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=matulwan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
----
-
-## 🚀 About Me
-
-- 💻 Passionate developer constantly learning and building
-- 🌱 Currently exploring new technologies and frameworks
-- 🎯 Focus on creating impactful and efficient solutions
-- 📫 Reach me: [Your Email/Contact]
-- ⚡ Fun fact: I love turning coffee into code!
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -47,28 +35,18 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=matulwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matulwan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=matulwan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matulwan/matulwan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matulwan/matulwan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/matulwan/matulwan/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
 
 ## 🤝 Connect With Me
 
@@ -81,14 +59,4 @@
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-<div align="center">
-  
-### 💭 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-</div>
